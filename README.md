@@ -1,6 +1,7 @@
-#Exercicio referente a Tratamento de Exceptions
+##Exercicio referente a Tratamento de Exceptions
 
 Estudos:
+
 *Cláusula throws: propaga a execeção ao invés de tratá-la
 
 *Cláusula throw: lança a exceção e para o método
