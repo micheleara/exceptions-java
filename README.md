@@ -1,4 +1,4 @@
-##Exercicio referente a Tratamento de Exceptions
+Exercicio referente a Tratamento de Exceptions
 
 Estudos:
 
